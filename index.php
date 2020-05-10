@@ -44,12 +44,12 @@ while ($n > 1) {
     echo "<br>";
 }
 
-//$n = 0;
-//do {
-//    echo $n;
-//    echo "<br>";
-//    $n = $n / 2;
-//}while ($n > 1);
+$n = 0;
+do {
+   echo $n;
+   echo "<br>";
+   $n = $n / 2;
+}while ($n > 1);
 
 //$i = $i + 1
 
