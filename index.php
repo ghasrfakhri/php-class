@@ -37,13 +37,13 @@
 //
 //}
 
-//$n = 0;
-//while ($n > 1) {
-//    echo $n;
-//    echo "<br>";
-//    $n = $n / 2;
-//}
-//
+$n = 0;
+while ($n > 1) {
+    echo $n;
+    $n = $n / 2;
+    echo "<br>";
+}
+
 //$n = 0;
 //do {
 //    echo $n;
@@ -68,7 +68,6 @@ $x = $i++ ;//++ --
 
 // && || !
 
-//var_dump( !true);
 
 if( $a > 10 || $b < 20){
     //fgdfgfdg
